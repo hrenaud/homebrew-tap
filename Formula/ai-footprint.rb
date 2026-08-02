@@ -3,8 +3,8 @@ class AiFootprint < Formula
 
   desc "Compteur d'impact environnemental multi-critères pour outils d'IA agentique"
   homepage "https://github.com/hrenaud/ai-footprint"
-  url "https://github.com/hrenaud/ai-footprint/archive/refs/tags/v1.9.0.tar.gz"
-  sha256 "4d0e2935067267df902bfa1dc29aea03fcf6f3266f0eaeeb1f412902f4eb1f05"
+  url "https://github.com/hrenaud/ai-footprint/archive/refs/tags/v1.9.1.tar.gz"
+  sha256 "440ffb91185fe20a2fcbcaaadc31f7c5c8b47176ceb54a9deac0cb81fe8b07a4"
   license "AGPL-3.0-or-later"
 
   depends_on "rust" => :build
